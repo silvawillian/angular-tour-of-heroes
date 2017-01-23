@@ -20,7 +20,7 @@ import { AppRoutingModule } from './app-routing.module';
     DashboardComponent,
     
   ],
-  
+ 
   imports: [
     BrowserModule,
     FormsModule,
